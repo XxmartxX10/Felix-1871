@@ -10,16 +10,12 @@
 </div>
 
 <hr>
-
 <div align="center">
-
     <strong>🖥️ OSes:</strong>
 <br>
-
-    <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge&labelColor=black">
-
+  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge&labelColor=black">
 <br>
   -
 <br>

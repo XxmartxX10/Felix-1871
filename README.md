@@ -19,34 +19,26 @@
 <br>
   -
 <br>
-
   <strong>⌨️ Languages:</strong>
   <br>
-
   <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-
 <br>
   -
 <br>
-
   <strong>📚 Frameworks and Libraries:</strong>
   <br>
-
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=black">
-
 <br>
   -
 <br>
-
   <strong>📱 IDEs/Editors:</strong>
   <br>
-
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
@@ -54,31 +46,26 @@
 <br>
   -
 <br>
-
   <strong>🎨 Design:</strong>
 <br>
-
     <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=black">
-
 <br>
   -
 <br>
-
   <strong>🤌 Version Control:</strong>
 <br>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
 <br>
   -
 <br>
-
   <strong>📖 Databases:</strong>
 <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/-Microsoft%20SQL%Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&labelColor=black">
 </div>
 
-<hr>
+  <hr>
 
 <div align="center">
 

@@ -62,7 +62,7 @@
   <strong>📖 Databases:</strong>
 <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
-    <img src="https://img.shields.io/badge/-Microsoft%20SQL%Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%Server-CC2927?logo=microsoft&logoColor=white&style=for-the-badge&labelColor=black">
 </div>
 
   <hr>

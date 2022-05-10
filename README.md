@@ -3,10 +3,10 @@
 <div align="center">
   <img src="header.png">
 </div>
-<h3 align="center">Hi, I'm Felix, as you can see a bit too crazy about Felix Argyle from Re:Zero.
+<h3 align="center">Hi, I'm Felix, girl a bit too crazy about Felix Argyle from Re:Zero.
 
 <div align="center">
-  I'm a Computer Science student. I love designing and creating something that'll help me or my enviroment. Here on my GitHub you'll find my projects :)
+  I'm a Computer Science student. I love designing and creating something that'll help me or people around. Here you'll find my projects :)
 </div>
 
 <hr>
@@ -41,8 +41,7 @@
   <br>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black">
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge&labelColor=black">
 <br>
   -
 <br>
@@ -63,7 +62,15 @@
 <br>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&labelColor=black">
-</div>
+<br>
+  -
+  <br>
+  <strong>🕸️ Not related to coding:</strong>
+  <br>
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
+  </div>
 
   <hr>
 

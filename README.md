@@ -3,7 +3,7 @@
 <div align="center">
   <img src="header.png">
 </div>
-<h3 align="center">Hi, I'm Felix, girl a bit too crazy about Felix Argyle from Re:Zero.
+<h3 align="center">Hi, I'm Laura, girl a bit too crazy about Felix Argyle from Re:Zero.
 
 <div align="center">
   I'm a Computer Science student. I love designing and creating something that'll help me or people around. Here you'll find my projects :)
